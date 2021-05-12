@@ -1,0 +1,15 @@
+
+
+
+hr{
+	border-top: 3px solid;
+	width: 230px;
+}
+
+p{
+	text-indent: 30px;
+}
+
+section{
+	min-height: 420px;
+}
